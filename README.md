@@ -50,8 +50,6 @@ Other Tools: Git, GitHub, Docker
 
 🌐 Portfolio / Website
 
-📧 prince.patwa@example.com
+📧 prince@ciphermeticconsulting.com
 
 ⭐️ “Helping businesses automate & scale through smart CRM solutions.”
-
-Do you want me to make this into a ready-to-use GitHub README.md file with styling (badges, icons, stats cards, etc.) so it looks more professional?
