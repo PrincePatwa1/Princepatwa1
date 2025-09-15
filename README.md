@@ -49,8 +49,7 @@
 ---
 
 ## 📬 Connect With Me  
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio / Website](#)  
+- 💼 [[LinkedIn](#)  ](https://www.linkedin.com/in/princepatwaccpl/)
 - 📧 prince@ciphermeticconsulting.com  
 
 ---
