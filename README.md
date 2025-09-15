@@ -1,4 +1,4 @@
-https://github.com/PrincePatwa1/Princepatwa1/blob/77821b3d11e81e04cbaac2116084f9aaedb32963/Princepatwa.jpg
+https://github.com/PrincePatwa1/Princepatwa1/blob/77821b3d11e81e04cbaac2116084f9aaedb32963/Princepatwa.jpg?raw=true
 Hi, I'm Prince Patwa
 🚀  CRM Expert (Zoho | HubSpot | Odoo)
 
