@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/PrincePatwa1/Princepatwa1/blob/main/Princea.png?raw=true"
      alt="Prince Patwa" 
-       width="200" 
-       height="200"
+       width="600" 
+       height="600"
        style="border-radius: 50%; object-fit: cover;" />
       
 </p>
