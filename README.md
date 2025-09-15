@@ -4,10 +4,8 @@
        width="600" 
        height="600"
        style="border-radius: 50%; object-fit: cover;" />
-      
+      <h1 align="center">Hi, I'm Prince Patwa</h1>
 </p>
-
-<h1 align="center">Hi, I'm Prince Patwa</h1>
 <h3 align="center">🚀 CRM Expert (Zoho | HubSpot | Odoo)</h3>
 <p align="center"><b>Consultant & Developer | Implementation & Integration Specialist | Helping Businesses Automate & Scale</b></p>
 
