@@ -1,9 +1,13 @@
-![Prince Patwa](https://github.com/PrincePatwa1/Princepatwa1/blob/77821b3d11e81e04cbaac2116084f9aaedb32963/Princepatwa.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/PrincePatwa1/Princepatwa1/blob/77821b3d11e81e04cbaac2116084f9aaedb32963/Princepatwa.jpg?raw=true" 
+       alt="Prince Patwa" 
+       width="200" 
+       style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
+</p>
 
-# Hi, I'm Prince Patwa  
-🚀 CRM Expert (Zoho | HubSpot | Odoo)  
-
-**Consultant & Developer | Implementation & Integration Specialist | Helping Businesses Automate & Scale**
+<h1 align="center">Hi, I'm Prince Patwa</h1>
+<h3 align="center">🚀 CRM Expert (Zoho | HubSpot | Odoo)</h3>
+<p align="center"><b>Consultant & Developer | Implementation & Integration Specialist | Helping Businesses Automate & Scale</b></p>
 
 ---
 
@@ -50,4 +54,5 @@
 ---
 
 ⭐️ *“Helping businesses automate & scale through smart CRM solutions.”*  
+
 
