@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://github.com/PrincePatwa1/Princepatwa1/blob/77821b3d11e81e04cbaac2116084f9aaedb32963/Princepatwa.jpg?raw=true" 
-       alt="Prince Patwa" 
-       width="200" 
-       height="200"
-       style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://github.com/PrincePatwa1/Princepatwa1/blob/main/Princea.png?raw=true"
+    
+      
 </p>
 
 <h1 align="center">Hi, I'm Prince Patwa</h1>
